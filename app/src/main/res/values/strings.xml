@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HoraDaGorjeta</string>
+    <string name="tip_amount">Tip_Amount: %s</string>
 </resources>
